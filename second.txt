@@ -1,2 +1,2 @@
 This is a second file.
-use only for video (mp4).
+use only for video (mp4) - video collection.
