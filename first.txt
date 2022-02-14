@@ -1,2 +1,2 @@
 This is first file.
-use only for audio.
+use only for audio (mp3).
